@@ -48,9 +48,10 @@ Project-H2O-AI/
 │   └── breakeven_charts/                        # Individual facility ROI graphs
 └── README.md                                    # Project documentation & summary
 
+## 📚 Acknowledgments & Data Sources
 
-📚 Acknowledgments & Data Sources
-AI Water Footprint: Li et al. (2023). "Making AI Less Thirsty"
-Wastewater Flow: Houston Public Works Annual Comprehensive Financial Report (2024)
-Capital Costing: EPA WBS Cost Model (EPA 815-R-24-027)
-Industry Inventory: DataCenterMap.com
+*   **AI Water Footprint Analysis:** Li, P., et al. (2023). *"Making AI Less Thirsty: Uncovering and Addressing the Secret Water Footprint of AI Models."* [arXiv:2304.03271](https://arxiv.org/abs/2304.03271)
+*   **Wastewater Flow & Supply:** City of Houston. *Annual Comprehensive Financial Report (ACFR) 2024.* [Houston Public Works](https://www.houstonpublicworks.org/)
+*   **Infrastructure Capital Costing:** U.S. Environmental Protection Agency (EPA). *Work Breakdown Structure (WBS)-Based Cost Model for RO/NF (EPA 815-R-24-027).* [EPA.gov](https://www.epa.gov/dwregdev/drinking-water-treatment-technology-unit-cost-models-and-graphs)
+*   **Data Center Market Inventory:** Industry profile data provided by [DataCenterMap.com](https://www.datacentermap.com/usa/texas/houston/)
+*   **Economic Indexing:** Inflation adjustments based on the *Engineering News-Record (ENR) Construction Cost Index (CCI) 2021-2024.*
