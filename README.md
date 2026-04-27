@@ -47,6 +47,7 @@ Project-H2O-AI/
 │   ├── epa_cost_curves.png                      # Capital/O&M power law curves
 │   └── breakeven_charts/                        # Individual facility ROI graphs
 └── README.md                                    # Project documentation & summary
+```
 
 ## 📚 Acknowledgments & Data Sources
 
